@@ -12,12 +12,12 @@ Note :
   * **Comments** ? If you would to comment on the document, please open a topic on the forum under the [topic](http://discourse.sci-gaia.eu/t/d1-3-e-infrastructure-sentinel-report/2566)
   * **Errors** ? [Open an issue](../issues/new)
   * **Contributions** ? If you would like to contribute to the document, please fork the repository and send your suggestions in a pull request.
-    * **I want to send you contributions in some otherway** - whatever works for you, friend - send it over.  
+    * **I want to send you contributions in some other way** - whatever works for you, friend - send it over.  
 
 
 #  Building the document
 
-The document is built automatically on [Travis](https://travis-ci.org/sci-gaia/. See the [Travis file](.travis.yml) to see what is done in detail. The following steps are done :
+[Travis](https://travis-ci.org/sci-gaia/D1.3e-Infrastructure-Sentinel-report) builds the `.odt` and `.pdf` automatically on tagged commits. See the [Travis file](.travis.yml) to see what is done in detail. The following steps are done :
 
   1. Convert images where necessary
   2. Conduct spell check
@@ -40,7 +40,7 @@ pandoc -S --filter pandoc-fignos \
 --number-sections \
 --toc \
 --from markdown+implicit_figures+table_captions+pipe_tables+footnotes+inline_notes \
-D2.3-UF.md  -o D2.3-UF.odt
+D13-e-Infra-Sentinel-Report.md  -o D2.3-UF.odt
 ```
 
 You will need the filters available in your distribution of pandoc.
@@ -48,8 +48,12 @@ You will need the filters available in your distribution of pandoc.
 #  Spell checking
 
 We use aspell to
-`cat D2.3-UF.md  | aspell --pipe --encoding utf-8|grep -v \* | uniq`
+`cat D13-e-Infra-Sentinel-Report.md | aspell --pipe --encoding utf-8|grep -v \* | uniq`
 
 # Releases
 
-Versions are considered internal unless they have a major version number (_e.g._ `v1.0.0`).
+Releases follow a numbering convention as follows :
+
+  * **Major versions** _e.g._ `v1.0.0` : Public versions, passed internal review and checking.
+  * **Minor versions** _e.g._ `v0.1.0` : Internal releases, awaiting review
+  * **Patch versions** _e.g._ `v0.0.1` : Work in progress tags.
