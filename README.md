@@ -1,4 +1,5 @@
-<!-- [![Build Status](https://travis-ci.org/sci-gaia/D2.3UserForum.svg?branch=master)](https://travis-ci.org/sci-gaia/D2.3UserForum) [![Code Climate](https://codeclimate.com/github/sci-gaia/D2.3UserForum/badges/gpa.svg)](https://codeclimate.com/github/sci-gaia/D2.3UserForum) [![Issue Count](https://codeclimate.com/github/sci-gaia/D2.3UserForum/badges/issue_count.svg)](https://codeclimate.com/github/sci-gaia/D2.3UserForum) -->
+[![Build Status](https://travis-ci.org/sci-gaia/D1.3e-Infrastructure-Sentinel-report.svg?branch=master)](https://travis-ci.org/sci-gaia/D1.3e-Infrastructure-Sentinel-report) [![Code Climate](https://codeclimate.com/github/sci-gaia/D1.3e-Infrastructure-Sentinel-report/badges/gpa.svg)](https://codeclimate.com/github/sci-gaia/D1.3e-Infrastructure-Sentinel-report) [![Issue Count](https://codeclimate.com/github/sci-gaia/D1.3e-Infrastructure-Sentinel-report/badges/issue_count.svg)](https://codeclimate.com/github/sci-gaia/D1.3e-Infrastructure-Sentinel-report)
+
 
 # D1.3e-Infrastructure-Sentinel-report
 
