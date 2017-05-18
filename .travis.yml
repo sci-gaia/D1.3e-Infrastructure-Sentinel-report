@@ -1,4 +1,3 @@
----
 dist: trusty
 sudo: required
 language: c
@@ -20,22 +19,24 @@ addons:
     - lmodern
     - python
 before_install:
-- sudo pip install pandoc-fignos pandoc-tablenos
+  - sudo pip install pandoc-fignos pandoc-tablenos
 before_script:
-- cd images ; bash convert-images.sh
+  - cd images ; bash convert-images.sh
 script:
 - cd $TRAVIS_BUILD_DIR
 - ls
 - ERRORS=`cat D1.3-e-Infra-Sentinel-Report.md | aspell -d en_GB -p .aspell.en.pws
   -a -c  |grep -v \* |uniq|grep -v "International Ispell Version" | wc -l`
 - echo "Found $ERRORS errors"
-- 'pandoc -S --filter pandoc-fignos --filter pandoc-tablenos --variable mainfont="Lato"
+- >
+  'pandoc -S --filter pandoc-fignos --filter pandoc-tablenos --variable mainfont="Lato"
   --variable sansfont="Lato" --variable monofont="Roboto" --variable fontsize=12pt
   --variable version=1.17.2 --reference-odt="deliverable-template.ott" --number-sections
   --toc --from markdown+implicit_figures+table_captions+pipe_tables+footnotes+inline_notes
   D1.3-e-Infra-Sentinel-Report.md  -o D1.3-e-Infra-Sentinel-Report.odt
 
-- 'pandoc -S --filter pandoc-fignos --filter pandoc-tablenos --variable mainfont="Lato"
+- >
+  'pandoc -S --filter pandoc-fignos --filter pandoc-tablenos --variable mainfont="Lato"
   --variable sansfont="Lato" --variable monofont="Roboto" --variable fontsize=12pt
   --variable version=1.17.2 --number-sections --toc --from markdown+implicit_figures+table_captions+pipe_tables+footnotes+inline_notes
   D1.3-e-Infra-Sentinel-Report.md -o D1.3-e-Infra-Sentinel-Report.pdf
