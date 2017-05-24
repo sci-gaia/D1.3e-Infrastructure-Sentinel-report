@@ -30,7 +30,7 @@ We use pandoc to create the document :
 
 ```
 pandoc -S --filter pandoc-fignos \
---filter --filter pandoc-tablenos \
+--filter pandoc-tablenos \
 --variable mainfont="Lato" \
 --variable sansfont="Lato" \
 --variable monofont="Roboto" \
@@ -40,14 +40,15 @@ pandoc -S --filter pandoc-fignos \
 --number-sections \
 --toc \
 --from markdown+implicit_figures+table_captions+pipe_tables+footnotes+inline_notes \
-D13-e-Infra-Sentinel-Report.md  -o D2.3-UF.odt
+D1.3-e-Infra-Sentinel-Report.md  -o D1.3-e-Infra-Sentinel-Report.odt
 ```
 
 You will need the filters available in your distribution of pandoc.
 
 #  Spell checking
 
-We use aspell to
+We use aspell to check the spelling of the document with a custom dictionary kept in the repo.
+
 `cat D13-e-Infra-Sentinel-Report.md | aspell --pipe --encoding utf-8|grep -v \* | uniq`
 
 # Releases
@@ -57,3 +58,4 @@ Releases follow a numbering convention as follows :
   * **Major versions** _e.g._ `v1.0.0` : Public versions, passed internal review and checking.
   * **Minor versions** _e.g._ `v0.1.0` : Internal releases, awaiting review
   * **Patch versions** _e.g._ `v0.0.1` : Work in progress tags.
+ 
