@@ -52,7 +52,7 @@ deploy:
   - D1.3-e-Infra-Sentinel-Report.odt
   - D1.3-e-Infra-Sentinel-Report.pdf
   on:
-    repo: sci-gaia/D2.3UserForum
+    repo: sci-gaia/D1.3e-Infrastructure-Sentinel-report
     tags: true
 notifications:
   slack:
