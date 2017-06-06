@@ -27,3 +27,5 @@
 | ASREN | Arab States Regional Network |
 | CHAIN | Co-Ordination and Harmonisation of Advanced e-Infrastructures. FP-7 project. |
 | CHAIN-REDS | Co-Ordination and Harmonisation of Advanced e-Infrastructures for Research, Education and Data Sharing. FP-7 project, follow-on to CHAIN |
+| SBN | Serengeti Broadband Network (SBN) - Innovative broadband networking project under the TTA. See https://www.ttaportal.org/serengeti-broadband-network |
+| TTA | Technology Transfer Alliance. See https://www.ttaportal.org |
