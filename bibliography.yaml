@@ -1,0 +1,21 @@
+---
+references:
+- id: insights
+  title: 'Bridging the digital divide: skills for the new age'
+  issued:
+    year: '2017'
+    month: '3'
+  url: 'http://www.g20-insights.org/policy_briefs/bridging-digital-divide-skills-new-age/'
+  container-title: G20 Policy Briefs
+  publisher: G20 Insights
+  author:
+    - family: Chetty
+      given: K
+    - family: Aneja
+      given: U
+    - family: Mishra
+      given: V
+    - family: Gcora
+      given: N
+    - family: Josie
+      given: J

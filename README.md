@@ -37,9 +37,11 @@ pandoc -S --filter pandoc-fignos \
 --variable fontsize=12pt \
 --variable version=1.17.2 \
 --reference-odt="deliverable-template.ott" \
+--filter pandoc-citeproc \
+--csl="institute-of-physics-numeric.csl" \
 --number-sections \
 --toc \
---from markdown+implicit_figures+table_captions+pipe_tables+footnotes+inline_notes \
+--from markdown+implicit_figures+table_captions+pipe_tables+footnotes+inline_notes+yaml_metadata_block \
 D1.3-e-Infra-Sentinel-Report.md  -o D1.3-e-Infra-Sentinel-Report.odt
 ```
 
@@ -58,4 +60,3 @@ Releases follow a numbering convention as follows :
   * **Major versions** _e.g._ `v1.0.0` : Public versions, passed internal review and checking.
   * **Minor versions** _e.g._ `v0.1.0` : Internal releases, awaiting review
   * **Patch versions** _e.g._ `v0.0.1` : Work in progress tags.
- 

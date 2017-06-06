@@ -20,3 +20,10 @@
 | VPN | Virtual Private Network - network technology |
 | walled garden | Also known as "closed platform". Referred to online community platforms or social networks. See [description in Wikipedia](https://en.wikipedia.org/wiki/Closed_platform) |
 | WIMEA-ICT | Weather Information Management in East Africa - research community |
+| SEACOM | Southern African marine cable system, and private network services provider |
+| WACS | West African Cable System. West-African marine cable system connecting the U.K. with South Africa, with several landing points between |
+| Ubuntunet Alliance | The Regional NREN of East and Southern Africa |
+| WACREN | West and Central African Regional Network |
+| ASREN | Arab States Regional Network |
+| CHAIN | Co-Ordination and Harmonisation of Advanced e-Infrastructures. FP-7 project. |
+| CHAIN-REDS | Co-Ordination and Harmonisation of Advanced e-Infrastructures for Research, Education and Data Sharing. FP-7 project, follow-on to CHAIN |
