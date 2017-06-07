@@ -29,3 +29,6 @@
 | CHAIN-REDS | Co-Ordination and Harmonisation of Advanced e-Infrastructures for Research, Education and Data Sharing. FP-7 project, follow-on to CHAIN |
 | SBN | Serengeti Broadband Network (SBN) - Innovative broadband networking project under the TTA. See https://www.ttaportal.org/serengeti-broadband-network |
 | TTA | Technology Transfer Alliance. See https://www.ttaportal.org |
+| R & E | Research and Education |
+| NREN | National Research and Education Network |
+| Science DMZ | Demilitarsed Zone for Science - network model optimised for efficient processing and transfer of data |

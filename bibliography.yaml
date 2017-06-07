@@ -1,21 +1,196 @@
 ---
 references:
-- id: insights
-  title: 'Bridging the digital divide: skills for the new age'
-  issued:
-    year: '2017'
-    month: '3'
-  url: 'http://www.g20-insights.org/policy_briefs/bridging-digital-divide-skills-new-age/'
-  container-title: G20 Policy Briefs
-  publisher: G20 Insights
-  author:
-    - family: Chetty
-      given: K
-    - family: Aneja
-      given: U
-    - family: Mishra
-      given: V
-    - family: Gcora
-      given: N
-    - family: Josie
-      given: J
+  - id: insights
+    title: 'Bridging the digital divide: skills for the new age'
+    issued:
+      year: '2017'
+      month: '3'
+    url: 'http://www.g20-insights.org/policy_briefs/bridging-digital-divide-skills-new-age/'
+    container-title: G20 Policy Briefs
+    publisher: G20 Insights
+    author:
+      - family: Chetty
+        given: K
+      - family: Aneja
+        given: U
+      - family: Mishra
+        given: V
+      - family: Gcora
+        given: N
+      - family: Josie
+        given: J
+  - id: ITUpricing
+    title: "Study on International Internet Connectivity in Sub-Saharan Africa"
+    issued:
+      year: "2013"
+      month: "3"
+    url: "https://www.itu.int/en/publications/ITU-D/pages/publications.aspx?parent=D-PREF-EF.IIC.AFR-2013&media=electronic"
+    doi: "http://handle.itu.int/11.1002/pub/80981022-en"
+    author:
+      - family: Abossé
+        given: Akue-Kpakpo
+    container-title: "ITU publications on economics & finance"
+  - id: CHAIN
+    title:
+    issued:
+      year:
+      month:
+    url:
+    doi:
+    author:
+      - family:
+        given:
+  - id: barbera2014chain
+    type: article-journal
+    author:
+    - family: Barbera
+      given: Roberto
+    - family: Becker
+      given: Bruce
+    - family: Carrubba
+      given: Carla
+    - family: Inserra
+      given: Giuseppina
+    - family: Jalife Villalón
+      given: Salma
+    - family: Kanellopoulos
+      given: Christos
+    - family: Koumantaros
+      given: Kostas
+    - family: Mayo-García
+      given: Rafael
+    - family: Villavicencio
+      given: Luis Núñez
+      dropping-particle: de
+    - family: Prnjat
+      given: Ognjen
+    - literal: others
+    issued:
+    - year: '2014'
+    title: A CHAIN-REDS solution for accessing computational services
+    publisher: Red CLARA (Cooperación Latino Americana de Redes Avanzadas
+  - id: prnjat_enabling_2015
+    type: paper-conference
+    author:
+    - family: Prnjat
+      given: Ognjen
+    - family: Becker
+      given: Bruce
+    - family: Barbera
+      given: Roberto
+    - family: Kanellopoulos
+      given: Christos
+    - family: Koumantaros
+      given: Kostas
+    - family: Mayo-Garcia
+      given: Rafael
+    - family: Ruggieri
+      given: Federico
+    issued:
+    - year: '2015'
+      month: '5'
+    accessed:
+    - year: '2017'
+      month: '6'
+      day: '6'
+    title: Enabling intercontinental e-Infrastructures - a case for Africa
+    publisher: IEEE
+    page: '1-7'
+    URL: http://ieeexplore.ieee.org/document/7190535/
+    DOI: 10.1109/ISTAFRICA.2015.7190535
+    ISBN: '9781905824519'
+  - id: andronico2011infrastructures
+    type: article-journal
+    author:
+    - family: Andronico
+      given: Giuseppe
+    - family: Balaž
+      given: Antun
+    - family: Banda
+      given: Tiwonge Msulira
+    - family: Barbera
+      given: Roberto
+    - family: Becker
+      given: Bruce
+    - family: Chattopadhyay
+      given: Subrata
+    - family: Chen
+      given: Gang
+    - family: Ciuffo
+      given: Leandro N
+    - family: Dhekne
+      given: PS
+    - family: Gavillet
+      given: Philippe
+    - literal: others
+    issued:
+    - year: '2011'
+    title: E-infrastructures for international cooperation
+    container-title: 'Computational and Data Grids: Principles, Applications and Design:
+      Principles, Applications and Design'
+    publisher: IGI Global
+    page: '141'
+    references:
+  - id: song_sub-saharan_2016
+    type: no-type
+    author:
+    - family: Song
+      given: Steve
+    issued:
+    - year: '2016'
+      month: '6'
+    accessed:
+    - year: '2017'
+      month: '6'
+      day: '6'
+    title: Sub-saharan Undersea Cables in 2018 - maybe (version 45)
+    abstract: Jun 2016 ======= Updated map to reflect DARE cable. &lt;a href=“http://www.teams.co.ke/dare/”
+      rel=“nofollow”&gt;www.teams.co.ke/dare/&lt;/a&gt;
+    keyword: ace, africa, cable, cbcs, dare, eassy, fibre, glo1, lion, mainone, ncscs,
+      optic, sat3, seacom, teams, undersea, wacs
+    URL: https://www.flickr.com/photos/ssong/27665889970/
+  - id: internet_society_international_2016
+    type: no-type
+    author:
+    - literal: Internet Society
+    issued:
+    - year: '2016'
+      month: '9'
+    accessed:
+    - year: '2017'
+      month: '6'
+      day: '6'
+    title: International Bandwidth and Pricing Trends in Sub-Sahara Africa
+    abstract: By Patrick Christian (Telegeography) AfPIF 2016, 30 Aug 2016
+    URL: https://www.slideshare.net/InternetSociety/international-bandwidth-and-pricing-trends-in-subsahara-africa
+  - id: noauthor_afterfibre_nodate
+    type: no-type
+    accessed:
+    - year: '2017'
+      month: '6'
+      day: '6'
+    title: AfTerFibre (African Terrestrial Fibre)
+    container-title: AfTer Fibre
+    URL: https://afterfibre.nsrc.org/#aftAbout
+  - id: nungu_design_2011
+    type: paper-conference
+    author:
+    - family: Nungu
+      given: Amos
+    - family: Olsson
+      given: Robert
+    - family: Pehrson
+      given: Bjorn
+    issued:
+    - year: '2011'
+      month: '6'
+    accessed:
+    - year: '2017'
+      month: '6'
+      day: '6'
+    title: On the design of inclusive ubiquitous access
+    publisher: IEEE
+    page: '346-352'
+    URL: http://ieeexplore.ieee.org/document/5949189/
+    DOI: 10.1109/ICUFN.2011.5949189
+    ISBN: '9781457711763'
