@@ -32,3 +32,4 @@
 | R & E | Research and Education |
 | NREN | National Research and Education Network |
 | Science DMZ | Demilitarsed Zone for Science - network model optimised for efficient processing and transfer of data |
+| RDA | Research Data Alliance. See https://www.rd-alliance.org/ | 
