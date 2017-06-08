@@ -42,13 +42,11 @@ script:
   D1.3-e-Infra-Sentinel-Report.md -o D1.3-e-Infra-Sentinel-Report.pdf
 
 '
-after_success: 
-before_deploy: 
+after_success:
+before_deploy:
 deploy:
   skip_cleanup: true
   provider: releases
-  api_key:
-    secure: PZl1iMqshI2fLEDBVoKY0R1U7wRH5fX3rbJhWKZCE4/Nn3XzyrHyAj09Oqf9K+1DPXYrN25FYOoMRrPbLN0CRwlwGnT/DNzKehW9rN9JFhCODHOh9cjQ2qvjGAp/IDGlq8sY+DqwkjMm9HkdZtCRb6gOvhxzO4LjD2GR/8nwbSqB6uI4oyBEG26qrZaQilvmsgtuUFOc+X6R25Nl5woIV4PobqsN9XIkVuT/nvQB5dWuRqAknnCrUWrd8gKK28IvW852lkSDX7vRg/y/t9SFIKNLV6SDifWtPY1f44bCz9+xxKe/pRZOFZGHj8gNf4ddFmJh5GYMXKjcxaAM1TdiaWl8KnnoNb90SDOj9tyJl2vZC9xh67bWsPpmk8gyd1KlHqWU5GeMQln+hYXTJGZao+8F6ipjps46f8SO59SHx0BLgeO8ELu2IVNhT3usJHlXeNsrCEmiCuisq2qIR+rFajZ0kr6b2w9Ew6+3EoEZRdAjKXtWLiHgNxXXCi86AIw4MwvpltZYYLrQw2nFnm2O38u1LIkak/sj5bEXSZ0zOC9FGqOlUv55WIcLwRRHiuqjzvXXcbtpbFSEqCHtgUaeo+8FEE/yr56xLrky4b7ITvGBgTM7rZnAcnljg9brfuuU/eV9PTHCRG9tbxlklu7P9iEh6M6vik1ptoU65bCb5hA=
   file:
   - D1.3-e-Infra-Sentinel-Report.odt
   - D1.3-e-Infra-Sentinel-Report.pdf
