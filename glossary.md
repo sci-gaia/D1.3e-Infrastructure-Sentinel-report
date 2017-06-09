@@ -19,6 +19,7 @@
 | ISP | Internet Service Provider - internet terminology |
 | MURIA | Medicines Utilisation Research In Africa  - community of practice |
 | NREN | National Research and Education Network |
+| OpenAIRE | Open Access Infrastructure for Research in Europe. Series  of data and scholarly communicatin interoperability projects funded by the European Commission |
 | OSP | Open Science Platform - a proposal for an open platform for Open Science workflows. See [www.sci-gaia.eu/osp](http://www.sci-gaia.eu/osp)|
 | R & E | Research and Education |
 | RDA | Research Data Alliance. See https://www.rd-alliance.org/ |
