@@ -35,13 +35,11 @@ script:
   D1.3-e-Infra-Sentinel-Report.md  -o D1.3-e-Infra-Sentinel-Report.odt
 
 '
-- 'pandoc -S --filter pandoc-fignos --filter pandoc-tablenos --filter pandoc-citeproc
-  --csl="institute-of-physics-numeric.csl" --variable mainfont="Lato" --variable sansfont="Lato"
-  --variable monofont="Roboto" --variable fontsize=12pt --variable version=1.17.2
-  --number-sections --toc -t latex --from markdown+implicit_figures+table_captions+pipe_tables+footnotes+inline_notes+yaml_metadata_block
-  D1.3-e-Infra-Sentinel-Report.md -o D1.3-e-Infra-Sentinel-Report.pdf
-
-'
+# - 'pandoc -S --filter pandoc-fignos --filter pandoc-tablenos --filter pandoc-citeproc
+#   --csl="institute-of-physics-numeric.csl" --variable mainfont="Lato" --variable sansfont="Lato"
+#   --variable monofont="Roboto" --variable fontsize=12pt --variable version=1.17.2
+#   --number-sections --toc -t latex --from markdown+implicit_figures+table_captions+pipe_tables+footnotes+inline_notes+yaml_metadata_block
+#   D1.3-e-Infra-Sentinel-Report.md -o D1.3-e-Infra-Sentinel-Report.pdf'
 after_success:
 before_deploy:
 deploy:
@@ -49,7 +47,7 @@ deploy:
   provider: releases
   file:
   - D1.3-e-Infra-Sentinel-Report.odt
-  - D1.3-e-Infra-Sentinel-Report.pdf
+  # - D1.3-e-Infra-Sentinel-Report.pdf
   on:
     repo: sci-gaia/D1.3e-Infrastructure-Sentinel-report
     tags: true
