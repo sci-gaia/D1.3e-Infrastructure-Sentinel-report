@@ -35,3 +35,8 @@
 | WACS | West African Cable System. West-African marine cable system connecting the U.K. with South Africa, with several landing points between |
 | walled garden | Also known as "closed platform". Referred to online community platforms or social networks. See [description in Wikipedia](https://en.wikipedia.org/wiki/Closed_platform) |
 | WIMEA-ICT | Weather Information Management in East Africa - research community |
+| AVN | African Very long baseline interferometry Network. A network of radio telescopes in Africa |
+| Indigo DataCloud | H2020 project aimed at developing datacentre solutions for research clouds |
+| EGI, EGI.eu | The EGI foundation coordinates distributed grid and cloud computing in Europe |
+| OLA | Operating Level Agreement |
+| THOR | A H2020 project - Technical and Human infrastructure for Open Research |
