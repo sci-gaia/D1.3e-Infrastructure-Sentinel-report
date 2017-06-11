@@ -40,3 +40,4 @@
 | EGI, EGI.eu | The EGI foundation coordinates distributed grid and cloud computing in Europe |
 | OLA | Operating Level Agreement |
 | THOR | A H2020 project - Technical and Human infrastructure for Open Research |
+| ICRI | International Conference on Research Infrastructures. Annual conference on research infrastructures. The 2016 edition was hosted by the South African Department of Science and Technology in Cape Town |
