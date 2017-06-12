@@ -43,3 +43,4 @@
 | WACS | West African Cable System. West-African marine cable system connecting the U.K. with South Africa, with several landing points between |
 | walled garden | Also known as "closed platform". Referred to online community platforms or social networks. See [description in Wikipedia](https://en.wikipedia.org/wiki/Closed_platform) |
 | WIMEA-ICT | Weather Information Management in East Africa - research community |
+| CRIS | [Current Research Information System](https://en.wikipedia.org/wiki/Current_research_information_system) |
