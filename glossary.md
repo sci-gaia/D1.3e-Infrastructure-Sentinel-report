@@ -8,6 +8,7 @@
 | Bootcamp | A brief, focussed event with a development focus around a particular issue or technology. Particularly suited to creating an initial spike in activity or completing a project activity or application |
 | CHAIN | Co-Ordination and Harmonisation of Advanced e-Infrastructures. FP-7 project. |
 | CHAIN-REDS | Co-Ordination and Harmonisation of Advanced e-Infrastructures for Research, Education and Data Sharing. FP-7 project, follow-on to CHAIN |
+| COTS | Cheap Off-The-Shelf  - referring to commodity components |
 | DARIAH | Digital Research Infrastructure for the Arts and Humanities - community of practice |
 | DevOps | Portmanteau of "Development" and "Operations" , referring to a collaborative engineering and development culture |
 | e-IRG | e-Infrasructures Reflection Group. See http://www.e-irg.org |
@@ -42,4 +43,3 @@
 | WACS | West African Cable System. West-African marine cable system connecting the U.K. with South Africa, with several landing points between |
 | walled garden | Also known as "closed platform". Referred to online community platforms or social networks. See [description in Wikipedia](https://en.wikipedia.org/wiki/Closed_platform) |
 | WIMEA-ICT | Weather Information Management in East Africa - research community |
-| COTS | Cheap Off-The-Shelf  - referring to commodity components |
