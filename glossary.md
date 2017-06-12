@@ -44,3 +44,4 @@
 | walled garden | Also known as "closed platform". Referred to online community platforms or social networks. See [description in Wikipedia](https://en.wikipedia.org/wiki/Closed_platform) |
 | WIMEA-ICT | Weather Information Management in East Africa - research community |
 | CRIS | [Current Research Information System](https://en.wikipedia.org/wiki/Current_research_information_system) |
+| OAI-PMH | Open Archives Initiative [Protocol for Metadata Harvesting](https://www.openarchives.org/pmh/). A means to data interoperability |
