@@ -45,3 +45,5 @@
 | WIMEA-ICT | Weather Information Management in East Africa - research community |
 | CRIS | [Current Research Information System](https://en.wikipedia.org/wiki/Current_research_information_system) |
 | OAI-PMH | Open Archives Initiative [Protocol for Metadata Harvesting](https://www.openarchives.org/pmh/). A means to data interoperability |
+| CERN | European Centre for Particle Physics |
+| TACC | Texas Advanced Computing Centre |
