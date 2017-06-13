@@ -1,19 +1,20 @@
 [![Build Status](https://travis-ci.org/sci-gaia/D1.3e-Infrastructure-Sentinel-report.svg?branch=master)](https://travis-ci.org/sci-gaia/D1.3e-Infrastructure-Sentinel-report) [![Code Climate](https://codeclimate.com/github/sci-gaia/D1.3e-Infrastructure-Sentinel-report/badges/gpa.svg)](https://codeclimate.com/github/sci-gaia/D1.3e-Infrastructure-Sentinel-report) [![Issue Count](https://codeclimate.com/github/sci-gaia/D1.3e-Infrastructure-Sentinel-report/badges/issue_count.svg)](https://codeclimate.com/github/sci-gaia/D1.3e-Infrastructure-Sentinel-report)
 
-
 # D1.3e-Infrastructure-Sentinel-report
 
-Deliverable 1.3 - e-Infrastructure Sentinel Report for the Sci-GaIA project http://www.sci-gaia.eu/deliverables/
+Deliverable 1.3 - **e-Infrastructure Sentinel Report for the Sci-GaIA project** http://www.sci-gaia.eu/deliverables/
 
-Note :
+This repository contains the source  necessary to build the document.
+The document is built with pandoc - see below.
+
+**Note :**
 
   * The main file is : **D1.3-e-Infra-Sentinel-Report.md**. This is used to build the other formats (pdf, odt - [see below](#building-the-document))
-  * **Looking for PDF / DOC ?** If you want a pre-compiled document to read, in a `.pdf` or `.odt` file, see the [Github Releases](https://github.com/sci-gaia/D1.3e-Infrastructure-Sentinel-report/releases). This contains  the latest succesful build of the document.
+  * **Looking for PDF / DOC ?** If you want a pre-compiled document to read, in a `.pdf` or `.odt` file, see the [Github Releases](https://github.com/sci-gaia/D1.3e-Infrastructure-Sentinel-report/releases). This contains  the latest succesful build of a release of the document.
   * **Comments** ? If you would to comment on the document, please open a topic on the forum under the [topic](http://discourse.sci-gaia.eu/t/d1-3-e-infrastructure-sentinel-report/2566)
   * **Errors** ? [Open an issue](../issues/new)
   * **Contributions** ? If you would like to contribute to the document, please fork the repository and send your suggestions in a pull request.
     * **I want to send you contributions in some other way** - whatever works for you, friend - send it over.  
-
 
 #  Building the document
 
@@ -21,7 +22,8 @@ Note :
 
   1. Convert images where necessary
   2. Conduct spell check
-  3. Push release on successful build
+  3. Build the document with pandoc
+  3. Push release on successful build, if tagged
 
 
 ## Pandoc
@@ -52,6 +54,10 @@ You will need the filters available in your distribution of pandoc.
 We use aspell to check the spelling of the document with a custom dictionary kept in the repo.
 
 `cat D13-e-Infra-Sentinel-Report.md | aspell --pipe --encoding utf-8|grep -v \* | uniq`
+
+#  Bibliography
+
+The bibliography used in the document is in `bibliograhy.yaml`. It uses the [citeproc-yaml](https://github.com/jgm/pandoc-citeproc) filter for pandoc.
 
 # Releases
 

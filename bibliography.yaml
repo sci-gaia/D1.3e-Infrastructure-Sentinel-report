@@ -1,919 +1,1080 @@
 ---
 references:
-- id: noauthor_participating_nodate
-  type: no-type
-  accessed:
-  - year: '2017'
-    month: '6'
-    day: '9'
-  title: Participating Countries - SKA Telescope
-  URL: http://skatelescope.org/participating-countries/
+  - id: noauthor_participating_nodate
+    type: no-type
+    accessed:
+    - year: '2017'
+      month: '6'
+      day: '9'
+    title: Participating Countries - SKA Telescope
+    URL: http://skatelescope.org/participating-countries/
 
-- id: insights
-  title: 'Bridging the digital divide: skills for the new age'
-  issued:
-    year: '2017'
-    month: '3'
-  url: 'http://www.g20-insights.org/policy_briefs/bridging-digital-divide-skills-new-age/'
-  container-title: G20 Policy Briefs
-  publisher: G20 Insights
-  author:
-    - family: Chetty
-      given: K
-    - family: Aneja
-      given: U
-    - family: Mishra
-      given: V
-    - family: Gcora
-      given: N
-    - family: Josie
-      given: J
-- id: ITUpricing
-  title: "Study on International Internet Connectivity in Sub-Saharan Africa"
-  issued:
-    year: "2013"
-    month: "3"
-  url: "https://www.itu.int/en/publications/ITU-D/pages/publications.aspx?parent=D-PREF-EF.IIC.AFR-2013&media=electronic"
-  doi: "http://handle.itu.int/11.1002/pub/80981022-en"
-  author:
-    - family: Abossé
-      given: Akue-Kpakpo
-  container-title: "ITU publications on economics & finance"
-- id: CHAIN
-  title:
-  issued:
-    year:
-    month:
-  url:
-  doi:
-  author:
-    - family:
-      given:
-- id: barbera2014chain
-  type: article-journal
-  author:
-  - family: Barbera
-    given: Roberto
-  - family: Becker
-    given: Bruce
-  - family: Carrubba
-    given: Carla
-  - family: Inserra
-    given: Giuseppina
-  - family: Jalife Villalón
-    given: Salma
-  - family: Kanellopoulos
-    given: Christos
-  - family: Koumantaros
-    given: Kostas
-  - family: Mayo-García
-    given: Rafael
-  - family: Villavicencio
-    given: Luis Núñez
-    dropping-particle: de
-  - family: Prnjat
-    given: Ognjen
-  - literal: others
-  issued:
-  - year: '2014'
-  title: A CHAIN-REDS solution for accessing computational services
-  publisher: Red CLARA (Cooperación Latino Americana de Redes Avanzadas
-- id: prnjat_enabling_2015
-  type: paper-conference
-  author:
-  - family: Prnjat
-    given: Ognjen
-  - family: Becker
-    given: Bruce
-  - family: Barbera
-    given: Roberto
-  - family: Kanellopoulos
-    given: Christos
-  - family: Koumantaros
-    given: Kostas
-  - family: Mayo-Garcia
-    given: Rafael
-  - family: Ruggieri
-    given: Federico
-  issued:
-  - year: '2015'
-    month: '5'
-  accessed:
-  - year: '2017'
-    month: '6'
-    day: '6'
-  title: Enabling intercontinental e-Infrastructures - a case for Africa
-  publisher: IEEE
-  page: '1-7'
-  URL: http://ieeexplore.ieee.org/document/7190535/
-  DOI: 10.1109/ISTAFRICA.2015.7190535
-  ISBN: '9781905824519'
-- id: andronico2011infrastructures
-  type: article-journal
-  author:
-  - family: Andronico
-    given: Giuseppe
-  - family: Balaž
-    given: Antun
-  - family: Banda
-    given: Tiwonge Msulira
-  - family: Barbera
-    given: Roberto
-  - family: Becker
-    given: Bruce
-  - family: Chattopadhyay
-    given: Subrata
-  - family: Chen
-    given: Gang
-  - family: Ciuffo
-    given: Leandro N
-  - family: Dhekne
-    given: PS
-  - family: Gavillet
-    given: Philippe
-  - literal: others
-  issued:
-  - year: '2011'
-  title: E-infrastructures for international cooperation
-  container-title: 'Computational and Data Grids: Principles, Applications and Design:
-    Principles, Applications and Design'
-  publisher: IGI Global
-  page: '141'
-  references:
-- id: song_sub-saharan_2016
-  type: no-type
-  author:
-  - family: Song
-    given: Steve
-  issued:
-  - year: '2016'
-    month: '6'
-  accessed:
-  - year: '2017'
-    month: '6'
-    day: '6'
-  title: Sub-saharan Undersea Cables in 2018 - maybe (version 45)
-  abstract: Jun 2016 ======= Updated map to reflect DARE cable. &lt;a href=“http://www.teams.co.ke/dare/”
-    rel=“nofollow”&gt;www.teams.co.ke/dare/&lt;/a&gt;
-  keyword: ace, africa, cable, cbcs, dare, eassy, fibre, glo1, lion, mainone, ncscs,
-    optic, sat3, seacom, teams, undersea, wacs
-  URL: https://www.flickr.com/photos/ssong/27665889970/
-- id: internet_society_international_2016
-  type: no-type
-  author:
-  - literal: Internet Society
-  issued:
-  - year: '2016'
-    month: '9'
-  accessed:
-  - year: '2017'
-    month: '6'
-    day: '6'
-  title: International Bandwidth and Pricing Trends in Sub-Sahara Africa
-  abstract: By Patrick Christian (Telegeography) AfPIF 2016, 30 Aug 2016
-  URL: https://www.slideshare.net/InternetSociety/international-bandwidth-and-pricing-trends-in-subsahara-africa
-- id: noauthor_afterfibre_nodate
-  type: no-type
-  accessed:
-  - year: '2017'
-    month: '6'
-    day: '6'
-  title: AfTerFibre (African Terrestrial Fibre)
-  container-title: AfTer Fibre
-  URL: https://afterfibre.nsrc.org/#aftAbout
-- id: nungu_design_2011
-  type: paper-conference
-  author:
-  - family: Nungu
-    given: Amos
-  - family: Olsson
-    given: Robert
-  - family: Pehrson
-    given: Bjorn
-  issued:
-  - year: '2011'
-    month: '6'
-  accessed:
-  - year: '2017'
-    month: '6'
-    day: '6'
-  title: On the design of inclusive ubiquitous access
-  publisher: IEEE
-  page: '346-352'
-  URL: http://ieeexplore.ieee.org/document/5949189/
-  DOI: 10.1109/ICUFN.2011.5949189
-  ISBN: '9781457711763'
-- id: '6877518'
-  type: paper-conference
-  author:
-  - family: Dart
-    given: 'E.'
-  - family: Rotman
-    given: L.
-  - family: Tierney
-    given: B.
-  - family: Hester
-    given: M.
-  - family: Zurawski
-    given: J.
-  issued:
-  - year: '2013'
-    month: Nov
-  title: 'The science dMZ: A network design pattern for data-intensive science'
-  title-short: The science dMZ
-  container-title: 2013 sC - international conference for high performance computing,
-    networking, storage and analysis (sC)
-  page: '1-10'
-  keyword: data communication;natural sciences computing;scientific information systems;cyberinfrastructure;cybersecurity;data
-    transfer performance;data-intensive science;high-capacity connections;network
-    design pattern;network design patterns;performance tools;remote computing systems;science
-    DMZ paradigm;scientific data;scientific discovery;supercomputing centers;system
-    configuration;universities;Data transfer;Monitoring;Packet loss;Security;Throughput;Wide
-    area networks;Design;Measurement;Performance;Reliability
-  DOI: 10.1145/2503210.2503245
-  ISSN: '2167-4329'
-- id: top500
-  type: no-type
-  accessed:
-  - year: '2017'
-    month: '6'
-    day: '7'
-  title: Performance Development TOP500 Supercomputer Sites
-  URL: https://www.top500.org/statistics/perfdevel/
-- id: huttermann_infrastructure_2012
-  type: chapter
-  author:
-  - family: Hüttermann
-    given: Michael
-  issued:
-  - year: '2012'
-  accessed:
-  - year: '2017'
-    month: '6'
-    day: '8'
-  title: Infrastructure as Code
-  container-title: DevOps for Developers
-  publisher: Apress
-  publisher-place: Berkeley, CA
-  page: '135-156'
-  note: 'DOI: 10.1007/978-1-4302-4570-4\_9'
-  URL: http://link.springer.com/10.1007/978-1-4302-4570-4_9
-  ISBN: 9781430245698 9781430245704
-- id: iac_oreilly
-  title: Infrastructure as Code
-  author:
-    given: Kief
-    family: Morris
-  publisher: "O'Reilly Media"
-  ISBN: 978-1-4919-2435-8
-  issued:
+  - id: insights
+    title: 'Bridging the digital divide: skills for the new age'
+    issued:
+      year: '2017'
+      month: '3'
+    url: 'http://www.g20-insights.org/policy_briefs/bridging-digital-divide-skills-new-age/'
+    container-title: G20 Policy Briefs
+    publisher: G20 Insights
+    author:
+      - family: Chetty
+        given: K
+      - family: Aneja
+        given: U
+      - family: Mishra
+        given: V
+      - family: Gcora
+        given: N
+      - family: Josie
+        given: J
+  - id: ITUpricing
+    title: "Study on International Internet Connectivity in Sub-Saharan Africa"
+    issued:
+      year: "2013"
+      month: "3"
+    url: "https://www.itu.int/en/publications/ITU-D/pages/publications.aspx?parent=D-PREF-EF.IIC.AFR-2013&media=electronic"
+    doi: "http://handle.itu.int/11.1002/pub/80981022-en"
+    author:
+      - family: Abossé
+        given: Akue-Kpakpo
+    container-title: "ITU publications on economics & finance"
+  - id: CHAIN
+    title:
+    issued:
+      year:
+      month:
+    url:
+    doi:
+    author:
+      - family:
+        given:
+  - id: barbera2014chain
+    type: article-journal
+    author:
+    - family: Barbera
+      given: Roberto
+    - family: Becker
+      given: Bruce
+    - family: Carrubba
+      given: Carla
+    - family: Inserra
+      given: Giuseppina
+    - family: Jalife Villalón
+      given: Salma
+    - family: Kanellopoulos
+      given: Christos
+    - family: Koumantaros
+      given: Kostas
+    - family: Mayo-García
+      given: Rafael
+    - family: Villavicencio
+      given: Luis Núñez
+      dropping-particle: de
+    - family: Prnjat
+      given: Ognjen
+    - literal: others
+    issued:
+    - year: '2014'
+    title: A CHAIN-REDS solution for accessing computational services
+    publisher: Red CLARA (Cooperación Latino Americana de Redes Avanzadas
+  - id: prnjat_enabling_2015
+    type: paper-conference
+    author:
+    - family: Prnjat
+      given: Ognjen
+    - family: Becker
+      given: Bruce
+    - family: Barbera
+      given: Roberto
+    - family: Kanellopoulos
+      given: Christos
+    - family: Koumantaros
+      given: Kostas
+    - family: Mayo-Garcia
+      given: Rafael
+    - family: Ruggieri
+      given: Federico
+    issued:
+    - year: '2015'
+      month: '5'
+    accessed:
+    - year: '2017'
+      month: '6'
+      day: '6'
+    title: Enabling intercontinental e-Infrastructures - a case for Africa
+    publisher: IEEE
+    page: '1-7'
+    URL: http://ieeexplore.ieee.org/document/7190535/
+    DOI: 10.1109/ISTAFRICA.2015.7190535
+    ISBN: '9781905824519'
+  - id: andronico2011infrastructures
+    type: article-journal
+    author:
+    - family: Andronico
+      given: Giuseppe
+    - family: Balaž
+      given: Antun
+    - family: Banda
+      given: Tiwonge Msulira
+    - family: Barbera
+      given: Roberto
+    - family: Becker
+      given: Bruce
+    - family: Chattopadhyay
+      given: Subrata
+    - family: Chen
+      given: Gang
+    - family: Ciuffo
+      given: Leandro N
+    - family: Dhekne
+      given: PS
+    - family: Gavillet
+      given: Philippe
+    - literal: others
+    issued:
+    - year: '2011'
+    title: E-infrastructures for international cooperation
+    container-title: 'Computational and Data Grids: Principles, Applications and Design:
+      Principles, Applications and Design'
+    publisher: IGI Global
+    page: '141'
+    references:
+  - id: song_sub-saharan_2016
+    type: no-type
+    author:
+    - family: Song
+      given: Steve
+    issued:
     - year: '2016'
-- id: europe2014data
-  type: article-journal
-  author:
-  - family: Europe
-    given: RDA
-  issued:
-  - year: '2014'
-  title: 'The data harvest: How sharing research data can yield knowledge, jobs
-    and growth'
-  title-short: The data harvest
-  container-title: Retrieved December
-  page: '2014'
-  volume: '4'
-- id: Durao2014
-  type: article-journal
-  author:
-  - family: Durao
-    given: Frederico
-  - family: Carvalho
-    given: Jose Fernando S.
-  - family: Fonseka
-    given: Anderson
-  - family: Garcia
-    given: Vinicius Cardoso
-  issued:
-  - year: '2014'
-  title: A systematic review on cloud computing
-  container-title: The Journal of Supercomputing
-  page: '1321-1346'
-  volume: '68'
-  issue: '3'
-  abstract: Cloud computing is an ascending technology that has introduced a new paradigm
-    by rendering a rational computational model possible. It has changed the dynamics
-    of IT consumption by means of a model that provides on-demand services over the
-    Internet. Unlike the traditional hosting service, cloud computing services are
-    paid for per usage and may expand or shrink based on demand. Such services are,
-    in general, fully managed by cloud providers that require users nothing but a
-    personal computer and an Internet access. In recent years, this model has attracted
-    the attention of researchers, investors and practitioners, many of whom have proposed
-    a number of applications, structures and fundamentals of cloud computing, resulting
-    in various definitions, requirements and models. Despite the interest and advances
-    in the field, issues such as security and privacy, service layer agreement, resource
-    sharing, and billing have opened up new questions about the real gains of the
-    model. Although cloud computing is based on a 50-year-old business model, evidence
-    from this study indicates that cloud computing still needs to expand and overcome
-    present limitations that prevent the full use of its potential. In this study,
-    we critically review the state of the art in cloud computing with the aim of identifying
-    advances, gaps and new challenges.
-  URL: http://dx.doi.org/10.1007/s11227-014-1089-x
-  DOI: 10.1007/s11227-014-1089-x
-  ISSN: '1573-0484'
-- id: hazelhurst2008scientific
-  type: paper-conference
-  author:
-  - family: Hazelhurst
-    given: Scott
-  issued:
-  - year: '2008'
-  title: 'Scientific computing using virtual high-performance computing: A case
-    study using the amazon elastic computing cloud'
-  title-short: Scientific computing using virtual high-performance computing
-  container-title: 'Proceedings of the 2008 annual research conference of the south
-    african institute of computer scientists and information technologists on iT research
-    in developing countries: Riding the wave of technology'
-  publisher: ACM
-  page: '94-103'
-- id: lecarpentier2013eudat
-  type: article-journal
-  author:
-  - family: Lecarpentier
-    given: Damien
-  - family: Wittenburg
-    given: Peter
-  - family: Elbers
-    given: Willem
-  - family: Michelini
-    given: Alberto
-  - family: Kanso
-    given: Riam
-  - family: Coveney
-    given: Peter
-  - family: Baxter
-    given: Rob
-  issued:
-  - year: '2013'
-  title: 'EUDAT: A new cross-disciplinary data infrastructure for science'
-  title-short: EUDAT
-  container-title: International Journal of Digital Curation
-  page: '279-287'
-  volume: '8'
-  issue: '1'
-- id: treloar2009design
-  type: article-journal
-  author:
-  - family: Treloar
-    given: Andrew
-  issued:
-  - year: '2009'
-  title: Design and implementation of the australian national data service
-  container-title: International Journal of Digital Curation
-  page: '125-137'
-  volume: '4'
-  issue: '1'
-- id: houssos_openaire_2014
-  type: article-journal
-  author:
-  - family: Houssos
-    given: Nikos
-  - family: Jörg
-    given: Brigitte
-  - family: Dvořák
-    given: Jan
-  - family: Príncipe
-    given: Pedro
-  - family: Rodrigues
-    given: Eloy
-  - family: Manghi
-    given: Paolo
-  - family: Elbæk
-    given: Mikael K.
-  issued:
-  - year: '2014'
-  accessed:
-  - year: '2017'
-    month: '6'
-    day: '9'
-  title: 'OpenAIRE Guidelines for CRIS Managers: Supporting Interoperability of
-    Open Research Information through Established Standards'
-  title-short: OpenAIRE Guidelines for CRIS Managers
-  container-title: Procedia Computer Science
-  page: '33-38'
-  volume: '33'
-  URL: http://linkinghub.elsevier.com/retrieve/pii/S1877050914007960
-  DOI: 10.1016/j.procs.2014.06.006
-  ISSN: '18770509'
-- id: noauthor_openaire_nodate
-  type: no-type
-  accessed:
-  - year: '2017'
-    month: '6'
-    day: '9'
-  title: OpenAIRE Guidelines — OpenAIRE Guidelines 3.0 documentation
-  URL: https://guidelines.openaire.eu/en/latest/
-- id: noauthor_42_nodate
-  type: no-type
-  accessed:
-  - year: '2017'
-    month: '6'
-    day: '9'
-  title: 42 countries, 174 institutes, 1800 members ALICE Collaboration
-  URL: http://alice-collaboration.web.cern.ch/general/index.html
+      month: '6'
+    accessed:
+    - year: '2017'
+      month: '6'
+      day: '6'
+    title: Sub-saharan Undersea Cables in 2018 - maybe (version 45)
+    abstract: Jun 2016 ======= Updated map to reflect DARE cable. &lt;a href=“http://www.teams.co.ke/dare/”
+      rel=“nofollow”&gt;www.teams.co.ke/dare/&lt;/a&gt;
+    keyword: ace, africa, cable, cbcs, dare, eassy, fibre, glo1, lion, mainone, ncscs,
+      optic, sat3, seacom, teams, undersea, wacs
+    URL: https://www.flickr.com/photos/ssong/27665889970/
+  - id: internet_society_international_2016
+    type: no-type
+    author:
+    - literal: Internet Society
+    issued:
+    - year: '2016'
+      month: '9'
+    accessed:
+    - year: '2017'
+      month: '6'
+      day: '6'
+    title: International Bandwidth and Pricing Trends in Sub-Sahara Africa
+    abstract: By Patrick Christian (Telegeography) AfPIF 2016, 30 Aug 2016
+    URL: https://www.slideshare.net/InternetSociety/international-bandwidth-and-pricing-trends-in-subsahara-africa
+  - id: noauthor_afterfibre_nodate
+    type: no-type
+    accessed:
+    - year: '2017'
+      month: '6'
+      day: '6'
+    title: AfTerFibre (African Terrestrial Fibre)
+    container-title: AfTer Fibre
+    URL: https://afterfibre.nsrc.org/#aftAbout
+  - id: nungu_design_2011
+    type: paper-conference
+    author:
+    - family: Nungu
+      given: Amos
+    - family: Olsson
+      given: Robert
+    - family: Pehrson
+      given: Bjorn
+    issued:
+    - year: '2011'
+      month: '6'
+    accessed:
+    - year: '2017'
+      month: '6'
+      day: '6'
+    title: On the design of inclusive ubiquitous access
+    publisher: IEEE
+    page: '346-352'
+    URL: http://ieeexplore.ieee.org/document/5949189/
+    DOI: 10.1109/ICUFN.2011.5949189
+    ISBN: '9781457711763'
+  - id: '6877518'
+    type: paper-conference
+    author:
+    - family: Dart
+      given: 'E.'
+    - family: Rotman
+      given: L.
+    - family: Tierney
+      given: B.
+    - family: Hester
+      given: M.
+    - family: Zurawski
+      given: J.
+    issued:
+    - year: '2013'
+      month: Nov
+    title: 'The science dMZ: A network design pattern for data-intensive science'
+    title-short: The science dMZ
+    container-title: 2013 sC - international conference for high performance computing,
+      networking, storage and analysis (sC)
+    page: '1-10'
+    keyword: data communication;natural sciences computing;scientific information systems;cyberinfrastructure;cybersecurity;data
+      transfer performance;data-intensive science;high-capacity connections;network
+      design pattern;network design patterns;performance tools;remote computing systems;science
+      DMZ paradigm;scientific data;scientific discovery;supercomputing centers;system
+      configuration;universities;Data transfer;Monitoring;Packet loss;Security;Throughput;Wide
+      area networks;Design;Measurement;Performance;Reliability
+    DOI: 10.1145/2503210.2503245
+    ISSN: '2167-4329'
+  - id: top500
+    type: no-type
+    accessed:
+    - year: '2017'
+      month: '6'
+      day: '7'
+    title: Performance Development TOP500 Supercomputer Sites
+    URL: https://www.top500.org/statistics/perfdevel/
+  - id: huttermann_infrastructure_2012
+    type: chapter
+    author:
+    - family: Hüttermann
+      given: Michael
+    issued:
+    - year: '2012'
+    accessed:
+    - year: '2017'
+      month: '6'
+      day: '8'
+    title: Infrastructure as Code
+    container-title: DevOps for Developers
+    publisher: Apress
+    publisher-place: Berkeley, CA
+    page: '135-156'
+    note: 'DOI: 10.1007/978-1-4302-4570-4\_9'
+    URL: http://link.springer.com/10.1007/978-1-4302-4570-4_9
+    ISBN: 9781430245698 9781430245704
+  - id: iac_oreilly
+    title: Infrastructure as Code
+    author:
+      given: Kief
+      family: Morris
+    publisher: "O'Reilly Media"
+    ISBN: 978-1-4919-2435-8
+    issued:
+      - year: '2016'
+  - id: europe2014data
+    type: article-journal
+    author:
+    - family: Europe
+      given: RDA
+    issued:
+    - year: '2014'
+    title: 'The data harvest: How sharing research data can yield knowledge, jobs
+      and growth'
+    title-short: The data harvest
+    container-title: Retrieved December
+    page: '2014'
+    volume: '4'
+  - id: Durao2014
+    type: article-journal
+    author:
+    - family: Durao
+      given: Frederico
+    - family: Carvalho
+      given: Jose Fernando S.
+    - family: Fonseka
+      given: Anderson
+    - family: Garcia
+      given: Vinicius Cardoso
+    issued:
+    - year: '2014'
+    title: A systematic review on cloud computing
+    container-title: The Journal of Supercomputing
+    page: '1321-1346'
+    volume: '68'
+    issue: '3'
+    abstract: Cloud computing is an ascending technology that has introduced a new paradigm
+      by rendering a rational computational model possible. It has changed the dynamics
+      of IT consumption by means of a model that provides on-demand services over the
+      Internet. Unlike the traditional hosting service, cloud computing services are
+      paid for per usage and may expand or shrink based on demand. Such services are,
+      in general, fully managed by cloud providers that require users nothing but a
+      personal computer and an Internet access. In recent years, this model has attracted
+      the attention of researchers, investors and practitioners, many of whom have proposed
+      a number of applications, structures and fundamentals of cloud computing, resulting
+      in various definitions, requirements and models. Despite the interest and advances
+      in the field, issues such as security and privacy, service layer agreement, resource
+      sharing, and billing have opened up new questions about the real gains of the
+      model. Although cloud computing is based on a 50-year-old business model, evidence
+      from this study indicates that cloud computing still needs to expand and overcome
+      present limitations that prevent the full use of its potential. In this study,
+      we critically review the state of the art in cloud computing with the aim of identifying
+      advances, gaps and new challenges.
+    URL: http://dx.doi.org/10.1007/s11227-014-1089-x
+    DOI: 10.1007/s11227-014-1089-x
+    ISSN: '1573-0484'
+  - id: hazelhurst2008scientific
+    type: paper-conference
+    author:
+    - family: Hazelhurst
+      given: Scott
+    issued:
+    - year: '2008'
+    title: 'Scientific computing using virtual high-performance computing: A case
+      study using the amazon elastic computing cloud'
+    title-short: Scientific computing using virtual high-performance computing
+    container-title: 'Proceedings of the 2008 annual research conference of the south
+      african institute of computer scientists and information technologists on iT research
+      in developing countries: Riding the wave of technology'
+    publisher: ACM
+    page: '94-103'
+  - id: lecarpentier2013eudat
+    type: article-journal
+    author:
+    - family: Lecarpentier
+      given: Damien
+    - family: Wittenburg
+      given: Peter
+    - family: Elbers
+      given: Willem
+    - family: Michelini
+      given: Alberto
+    - family: Kanso
+      given: Riam
+    - family: Coveney
+      given: Peter
+    - family: Baxter
+      given: Rob
+    issued:
+    - year: '2013'
+    title: 'EUDAT: A new cross-disciplinary data infrastructure for science'
+    title-short: EUDAT
+    container-title: International Journal of Digital Curation
+    page: '279-287'
+    volume: '8'
+    issue: '1'
+  - id: treloar2009design
+    type: article-journal
+    author:
+    - family: Treloar
+      given: Andrew
+    issued:
+    - year: '2009'
+    title: Design and implementation of the australian national data service
+    container-title: International Journal of Digital Curation
+    page: '125-137'
+    volume: '4'
+    issue: '1'
+  - id: houssos_openaire_2014
+    type: article-journal
+    author:
+    - family: Houssos
+      given: Nikos
+    - family: Jörg
+      given: Brigitte
+    - family: Dvořák
+      given: Jan
+    - family: Príncipe
+      given: Pedro
+    - family: Rodrigues
+      given: Eloy
+    - family: Manghi
+      given: Paolo
+    - family: Elbæk
+      given: Mikael K.
+    issued:
+    - year: '2014'
+    accessed:
+    - year: '2017'
+      month: '6'
+      day: '9'
+    title: 'OpenAIRE Guidelines for CRIS Managers: Supporting Interoperability of
+      Open Research Information through Established Standards'
+    title-short: OpenAIRE Guidelines for CRIS Managers
+    container-title: Procedia Computer Science
+    page: '33-38'
+    volume: '33'
+    URL: http://linkinghub.elsevier.com/retrieve/pii/S1877050914007960
+    DOI: 10.1016/j.procs.2014.06.006
+    ISSN: '18770509'
+  - id: noauthor_openaire_nodate
+    type: no-type
+    accessed:
+    - year: '2017'
+      month: '6'
+      day: '9'
+    title: OpenAIRE Guidelines — OpenAIRE Guidelines 3.0 documentation
+    URL: https://guidelines.openaire.eu/en/latest/
+  - id: noauthor_42_nodate
+    type: no-type
+    accessed:
+    - year: '2017'
+      month: '6'
+      day: '9'
+    title: 42 countries, 174 institutes, 1800 members ALICE Collaboration
+    URL: http://alice-collaboration.web.cern.ch/general/index.html
 
-- id: noauthor_collaboration_2015
-  type: no-type
-  issued:
-  - year: '2015'
-    month: '3'
-  accessed:
-  - year: '2017'
-    month: '6'
-    day: '9'
-  title: The Collaboration
-  abstract: '...'
-  URL: http://atlas.cern/discover/collaboration
-- id: copley_african_2016
-  type: article-journal
-  author:
-  - family: Copley
-    given: C. J.
-  - family: Thondikulam
-    given: V.
-  - family: Loots
-    given: A.
-  - family: Bangani
-    given: S.
-  - family: Cloete
-    given: K.
-  - family: Combrinck
-    given: L.
-  - family: Gioio
-    given: S.
-  - family: Ludick
-    given: J.
-  - family: Nicolson
-    given: G.
-  - family: Pollak
-    given: A. W.
-  - family: Pretorius
-    given: P.
-  - family: Quick
-    given: J. F. H.
-  - family: Taylor
-    given: G.
-  - family: Ebrahim
-    given: F.
-  - family: Humphreys
-    given: C.
-  - family: Maake
-    given: K.
-  - family: Maganane
-    given: R.
-  - family: Majinjiva
-    given: R.
-  - family: Mapunda
-    given: A.
-  - family: Manzini
-    given: M.
-  - family: Mogakwe
-    given: N.
-  - family: Moseki
-    given: A.
-  - family: Qwabe
-    given: N.
-  - family: Royi
-    given: N.
-  - family: Rosie
-    given: K.
-  - family: Smith
-    given: J.
-  - family: Schietekat
-    given: S.
-  - family: Toruvanda
-    given: O.
-  - family: Tong
-    given: C.
-  - family: Niekerk
-    given: B.
-    dropping-particle: van
-  - family: Walbrugh
-    given: W.
-  - family: Zeeman
-    given: W.
-  issued:
-  - year: '2016'
-    month: '8'
-  accessed:
-  - year: '2017'
-    month: '6'
-    day: '9'
-  title: The African Very Long Baseline Interferometry Network:The Ghana Antenna Conversion
-  title-short: The African Very Long Baseline Interferometry Network
-  container-title: arXiv:1608.02187 \[astro-ph\]
-  note: 'arXiv: 1608.02187'
-  abstract: The African Very Long Baseline Interferometry Network (AVN) is a pan-African
-    project that will develop Very Long Baseline Interferometry (VLBI) observing capability
-    in several countries across the African continent, either by conversion of existing
-    telecommunications antennas into radio telescopes, or by building new ones. This
-    paper focuses on the conversion of the Nkutunse satellite communication station
-    (near Accra, Ghana), specifically the early mechanical and infrastructure upgrades,
-    together with the development of a custom ambient receiver and digital backend.
-    The paper concludes with what remains to be done, before the station can be commissioned
-    as an operational VLBI station.
-  keyword: Astrophysics - Instrumentation and Methods for Astrophysics
-  URL: http://arxiv.org/abs/1608.02187
-- id: egi-doc-2407-v2
-  type: no-type
-  author:
-  - family: Andreozzi
-    given: Sergio
-  issued:
-  - year: '2015'
-    month: '05'
-  accessed:
-  - year: '2017'
-    month: '6'
-    day: '11'
-  title: 'EGI-doc-2407-v2: Mou between EGI.eu and CSIR Meraka (African-Arabian Region)'
-  title-short: EGI-doc-2407-v2
-  URL: https://documents.egi.eu/public/ShowDocument?docid=2407
-- id: bruce_becker_2016_208216
-  type: article-journal
-  author:
-  - family: Becker
-    given: Bruce
-  - family: Torrisi
-    given: Mario
-  issued:
-  - year: '2016'
-    month: '12'
-  title: '<span class="nocase">AAROC/e-Research-Hackfest-prep: e-Research Hackfest
-    Preparation : Lagos</span>'
-  URL: https://doi.org/10.5281/zenodo.208216
-  DOI: 10.5281/zenodo.208216
-- id: Tenhunen:562
-  type: article-journal
-  author:
-  - family: Tenhunen
-    given: Hannu
-  issued:
-  - year: '2017'
-    month: May
-  title: '<span class="nocase">Sci-GaIA Deliverable D2.4 - Energising Scientific
-    Endeavour: Experiences of Supporting Communities of Practice with Science Gateways
-    and e-Infrastructures</span>'
-- id: wilkinson_fair_2016
-  type: article-journal
-  author:
-  - family: Wilkinson
-    given: Mark D.
-  - family: Dumontier
-    given: Michel
-  - family: Aalbersberg
-    given: IJsbrand Jan
-  - family: Appleton
-    given: Gabrielle
-  - family: Axton
-    given: Myles
-  - family: Baak
-    given: Arie
-  - family: Blomberg
-    given: Niklas
-  - family: Boiten
-    given: Jan-Willem
-  - family: Silva Santos
-    given: Luiz Bonino
-    dropping-particle: da
-  - family: Bourne
-    given: Philip E.
-  - family: Bouwman
-    given: Jildau
-  - family: Brookes
-    given: Anthony J.
-  - family: Clark
-    given: Tim
-  - family: Crosas
-    given: Merc?
-  - family: Dillo
-    given: Ingrid
-  - family: Dumon
-    given: Olivier
-  - family: Edmunds
-    given: Scott
-  - family: Evelo
-    given: Chris T.
-  - family: Finkers
-    given: Richard
-  - family: Gonzalez-Beltran
-    given: Alejandra
-  - family: Gray
-    given: Alasdair J.G.
-  - family: Groth
-    given: Paul
-  - family: Goble
-    given: Carole
-  - family: Grethe
-    given: Jeffrey S.
-  - family: Heringa
-    given: Jaap
-  - family: Hoen
-    given: Peter A.C
-    dropping-particle: ?t
-  - family: Hooft
-    given: Rob
-  - family: Kuhn
-    given: Tobias
-  - family: Kok
-    given: Ruben
-  - family: Kok
-    given: Joost
-  - family: Lusher
-    given: Scott J.
-  - family: Martone
-    given: Maryann E.
-  - family: Mons
-    given: Albert
-  - family: Packer
-    given: Abel L.
-  - family: Persson
-    given: Bengt
-  - family: Rocca-Serra
-    given: Philippe
-  - family: Roos
-    given: Marco
-  - family: Schaik
-    given: Rene
-    dropping-particle: van
-  - family: Sansone
-    given: Susanna-Assunta
-  - family: Schultes
-    given: Erik
-  - family: Sengstag
-    given: Thierry
-  - family: Slater
-    given: Ted
-  - family: Strawn
-    given: George
-  - family: Swertz
-    given: Morris A.
-  - family: Thompson
-    given: Mark
-  - family: Lei
-    given: Johan
-    dropping-particle: van der
-  - family: Mulligen
-    given: Erik
-    dropping-particle: van
-  - family: Velterop
-    given: Jan
-  - family: Waagmeester
-    given: Andra
-  - family: Wittenburg
-    given: Peter
-  - family: Wolstencroft
-    given: Katherine
-  - family: Zhao
-    given: Jun
-  - family: Mons
-    given: Barend
-  issued:
-  - year: '2016'
-    month: '3'
-  accessed:
-  - year: '2017'
-    month: '6'
-    day: '11'
-  title: The FAIR Guiding Principles for scientific data management and stewardship
-  container-title: Scientific Data
-  page: '160018'
-  volume: '3'
-  URL: http://www.nature.com/articles/sdata201618
-  DOI: 10.1038/sdata.2016.18
-  ISSN: '2052-4463'
-- id: prnjat_surveying_2015
-  type: paper-conference
-  author:
-  - family: Prnjat
-    given: Ognjen
-  - family: Pascual
-    given: Manuel Rodriguez
-  - family: Becker
-    given: Bruce
-  - family: Barbera
-    given: Roberto
-  issued:
-  - year: '2015'
-    month: '5'
-  accessed:
-  - year: '2017'
-    month: '6'
-    day: '11'
-  title: Surveying clouds in a global environment
-  publisher: IEEE
-  page: '1-11'
-  URL: http://ieeexplore.ieee.org/document/7190536/
-  DOI: 10.1109/ISTAFRICA.2015.7190536
-  ISBN: '9781905824519'
-- id: cls_light_sources
-  type: no-type
-  accessed:
-  - year: '2017'
-    month: '6'
-    day: '11'
-  title: World synchrotron map Map of synchrotron lightsources worl… Flickr
-  URL: https://www.flickr.com/photos/clsresoff/8498996062
-- id: eirg_roadmap_2016
-  type: book
-  accessed:
-  - year: '2017'
-    month: '6'
-    day: '11'
-  title: Eirg-1002 - e-Infrastructures Reflection Group Roadmap 2016
-  URL: http://e-irg.eu/catalogue/eirg-1002
-  ISBN: 978-90-823661-1-2
-  author:
-  - family: Fledderus
-    given: Erik
-- id: eirg_roadmap_2012
-  type: book
-  accessed:
-  - year: '2017'
-    month: '6'
-    day: '11'
-  title: Eirg-1002 - e-Infrastructures Reflection Group Roadmap 2012
-  URL: http://e-irg.eu/catalogue/eirg-1002
-  ISBN: 978-90-817691-7-4
-  author:
-  - family: Frank
-    given: Anton
-  - family: Sandberg
-    given: Marie
-- id: Shave:2152388
-  type: article-journal
-  author:
-  - family: Shave
-    given: Tony
-  issued:
-  - year: '2016'
-    month: May
-  title: <span class="nocase">Distribution of all CERN Users by Nationality on 12       January 2016</span>
-  note: General Photo
-  URL: https://cds.cern.ch/record/2152388
-- id: cunningham_virtual_2014
-  type: article-journal
-  author:
-  - family: Cunningham
-    given: John A.
-  - family: Rahman
-    given: Imran A.
-  - family: Lautenschlager
-    given: Stephan
-  - family: Rayfield
-    given: Emily J.
-  - family: Donoghue
-    given: Philip C. J.
-  issued:
-  - year: '2014'
-    month: '6'
-  accessed:
-  - year: '2017'
-    month: '6'
-    day: '11'
-  title: A virtual world of palaeontology
-  container-title: Trends in Ecology & Evolution
-  page: '347-357'
-  volume: '29'
-  issue: '6'
-  keyword: computed tomography, computer modeling, digital visualization, functional
-    analysis, palaeontology
-  URL: http://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(14)00087-1
-  DOI: 10.1016/j.tree.2014.04.004
-  ISSN: '0169-5347'
-  PMID: '24821516'
-- id: berger2010australopithecus
-  type: article-journal
-  author:
-  - family: Berger
-    given: Lee R
-  - family: De Ruiter
-    given: Darryl J
-  - family: Churchill
-    given: Steven E
-  - family: Schmid
-    given: Peter
-  - family: Carlson
-    given: Kristian J
-  - family: Dirks
-    given: Paul HGM
-  - family: Kibii
-    given: Job M
-  issued:
-  - year: '2010'
-  title: 'Australopithecus sediba: A new species of homo-like australopith from
-    south africa'
-  title-short: Australopithecus sediba
-  container-title: Science
-  publisher: American Association for the Advancement of Science
-  page: '195-204'
-  volume: '328'
-  issue: '5975'
-  references:
-- id: OSP
-  type: article-journal
-  author:
-  - family: Consortium
-    given: The Sci-GaIA
-  issued:
-  - year: '2015'
-  title: A federated platform for an open science commons in africa
-  publisher: Sci-GaIA Open Access Repository
-  DOI: 10.15169/sci-gaia:1444905243.7
-- id: opennebula
-  type: article-journal
-  author:
-  - family: Rub&\#x00E9;n S. Montero
-  - family: Rafael Moreno-Vozmediano
-  - family: Ignacio M. Llorente
-  issued:
-  - year: '2012'
-  title: 'IaaS cloud architecture: From virtualized datacenters to federated cloud
-    infrastructures'
-  title-short: IaaS cloud architecture
-  container-title: Computer
-  publisher: IEEE Computer Society
-  publisher-place: Los Alamitos, CA, USA
-  page: '65-72'
-  volume: '45'
-  DOI: doi.ieeecomputersociety.org/10.1109/MC.2012.76
-  ISSN: '0018-9162'
-- id: koukis2013synnefo
-  type: article-journal
-  author:
-  - family: Koukis
-    given: Vangelis
-  - family: Venetsanopoulos
-    given: Constantinos
-  - family: Koziris
-    given: Nectarios
-  issued:
-  - year: '2013'
-  title: 'Synnefo: A complete cloud stack over ganeti'
-  title-short: Synnefo
-  container-title: USENIX; login
-  page: '6-10'
-  volume: '38'
-  issue: '5'
-- id: fedcloud15
-  type: article-journal
-  author:
-  - family: Fernández-del-Castillo
-    given: Enol
-  - family: Scardaci
-    given: Diego
-  - family: García
-    given: Álvaro López
-  issued:
-  - year: '2015'
-  title: The eGI federated cloud e-infrastructure
-  container-title: Procedia Computer Science
-  page: 196 - 205
-  volume: '68'
-  note: '1st International Conference on Cloud Forward: From Distributed to Complete
-    Computing'
-  keyword: Cloud Computing
-  URL: http://www.sciencedirect.com/science/article/pii/S187705091503080X
-  DOI: http://dx.doi.org/10.1016/j.procs.2015.09.235
-  ISSN: '1877-0509'
-- id: eosc
-  type: no-type
-  accessed:
-  - year: '2017'
-    month: '6'
-    day: '12'
-  title: Realising the European open science cloud - Scientific and technical research
-    - EU Bookshop
-  DOI: 10.2777/940154
-- id: simmonds_african_2016
-  type: paper-conference
-  author:
-  - family: Simmonds
-    given: R.
-  - family: Taylor
-    given: R.
-  - family: Horrell
-    given: J.
-  - family: Fanaroff
-    given: B.
-  - family: Sithole
-    given: H.
-  - family: Rensburg
-    given: S. J. van
-  - family: Pretorius
-    given: B.
-  issued:
-  - year: '2016'
-    month: '5'
-  title: The African Data Intensive Research Cloud
-  container-title: 2016 IST-Africa Week Conference
-  page: '1-8'
-  DOI: 10.1109/ISTAFRICA.2016.7530650
+  - id: noauthor_collaboration_2015
+    type: no-type
+    issued:
+    - year: '2015'
+      month: '3'
+    accessed:
+    - year: '2017'
+      month: '6'
+      day: '9'
+    title: The ATLAS Collaboration
+    abstract: '...'
+    URL: http://atlas.cern/discover/collaboration
+  - id: copley_african_2016
+    type: article-journal
+    author:
+    - family: Copley
+      given: C. J.
+    - family: Thondikulam
+      given: V.
+    - family: Loots
+      given: A.
+    - family: Bangani
+      given: S.
+    - family: Cloete
+      given: K.
+    - family: Combrinck
+      given: L.
+    - family: Gioio
+      given: S.
+    - family: Ludick
+      given: J.
+    - family: Nicolson
+      given: G.
+    - family: Pollak
+      given: A. W.
+    - family: Pretorius
+      given: P.
+    - family: Quick
+      given: J. F. H.
+    - family: Taylor
+      given: G.
+    - family: Ebrahim
+      given: F.
+    - family: Humphreys
+      given: C.
+    - family: Maake
+      given: K.
+    - family: Maganane
+      given: R.
+    - family: Majinjiva
+      given: R.
+    - family: Mapunda
+      given: A.
+    - family: Manzini
+      given: M.
+    - family: Mogakwe
+      given: N.
+    - family: Moseki
+      given: A.
+    - family: Qwabe
+      given: N.
+    - family: Royi
+      given: N.
+    - family: Rosie
+      given: K.
+    - family: Smith
+      given: J.
+    - family: Schietekat
+      given: S.
+    - family: Toruvanda
+      given: O.
+    - family: Tong
+      given: C.
+    - family: Niekerk
+      given: B.
+      dropping-particle: van
+    - family: Walbrugh
+      given: W.
+    - family: Zeeman
+      given: W.
+    issued:
+    - year: '2016'
+      month: '8'
+    accessed:
+    - year: '2017'
+      month: '6'
+      day: '9'
+    title: The African Very Long Baseline Interferometry Network:The Ghana Antenna Conversion
+    title-short: The African Very Long Baseline Interferometry Network
+    container-title: arXiv:1608.02187 \[astro-ph\]
+    note: 'arXiv: 1608.02187'
+    abstract: The African Very Long Baseline Interferometry Network (AVN) is a pan-African
+      project that will develop Very Long Baseline Interferometry (VLBI) observing capability
+      in several countries across the African continent, either by conversion of existing
+      telecommunications antennas into radio telescopes, or by building new ones. This
+      paper focuses on the conversion of the Nkutunse satellite communication station
+      (near Accra, Ghana), specifically the early mechanical and infrastructure upgrades,
+      together with the development of a custom ambient receiver and digital backend.
+      The paper concludes with what remains to be done, before the station can be commissioned
+      as an operational VLBI station.
+    keyword: Astrophysics - Instrumentation and Methods for Astrophysics
+    URL: http://arxiv.org/abs/1608.02187
+  - id: egi-doc-2407-v2
+    type: no-type
+    author:
+    - family: Andreozzi
+      given: Sergio
+    issued:
+    - year: '2015'
+      month: '05'
+    accessed:
+    - year: '2017'
+      month: '6'
+      day: '11'
+    title: 'EGI-doc-2407-v2: Mou between EGI.eu and CSIR Meraka (African-Arabian Region)'
+    title-short: EGI-doc-2407-v2
+    URL: https://documents.egi.eu/public/ShowDocument?docid=2407
+  - id: bruce_becker_2016_208216
+    type: article-journal
+    author:
+    - family: Becker
+      given: Bruce
+    - family: Torrisi
+      given: Mario
+    issued:
+    - year: '2016'
+      month: '12'
+    title: '<span class="nocase">AAROC/e-Research-Hackfest-prep: e-Research Hackfest
+      Preparation : Lagos</span>'
+    URL: https://doi.org/10.5281/zenodo.208216
+    DOI: 10.5281/zenodo.208216
+  - id: Tenhunen:562
+    type: article-journal
+    author:
+    - family: Tenhunen
+      given: Hannu
+    issued:
+    - year: '2017'
+      month: May
+    title: '<span class="nocase">Sci-GaIA Deliverable D2.4 - Energising Scientific
+      Endeavour: Experiences of Supporting Communities of Practice with Science Gateways
+      and e-Infrastructures</span>'
+  - id: wilkinson_fair_2016
+    type: article-journal
+    author:
+    - family: Wilkinson
+      given: Mark D.
+    - family: Dumontier
+      given: Michel
+    - family: Aalbersberg
+      given: IJsbrand Jan
+    - family: Appleton
+      given: Gabrielle
+    - family: Axton
+      given: Myles
+    - family: Baak
+      given: Arie
+    - family: Blomberg
+      given: Niklas
+    - family: Boiten
+      given: Jan-Willem
+    - family: Silva Santos
+      given: Luiz Bonino
+      dropping-particle: da
+    - family: Bourne
+      given: Philip E.
+    - family: Bouwman
+      given: Jildau
+    - family: Brookes
+      given: Anthony J.
+    - family: Clark
+      given: Tim
+    - family: Crosas
+      given: Merc?
+    - family: Dillo
+      given: Ingrid
+    - family: Dumon
+      given: Olivier
+    - family: Edmunds
+      given: Scott
+    - family: Evelo
+      given: Chris T.
+    - family: Finkers
+      given: Richard
+    - family: Gonzalez-Beltran
+      given: Alejandra
+    - family: Gray
+      given: Alasdair J.G.
+    - family: Groth
+      given: Paul
+    - family: Goble
+      given: Carole
+    - family: Grethe
+      given: Jeffrey S.
+    - family: Heringa
+      given: Jaap
+    - family: Hoen
+      given: Peter A.C
+      dropping-particle: ?t
+    - family: Hooft
+      given: Rob
+    - family: Kuhn
+      given: Tobias
+    - family: Kok
+      given: Ruben
+    - family: Kok
+      given: Joost
+    - family: Lusher
+      given: Scott J.
+    - family: Martone
+      given: Maryann E.
+    - family: Mons
+      given: Albert
+    - family: Packer
+      given: Abel L.
+    - family: Persson
+      given: Bengt
+    - family: Rocca-Serra
+      given: Philippe
+    - family: Roos
+      given: Marco
+    - family: Schaik
+      given: Rene
+      dropping-particle: van
+    - family: Sansone
+      given: Susanna-Assunta
+    - family: Schultes
+      given: Erik
+    - family: Sengstag
+      given: Thierry
+    - family: Slater
+      given: Ted
+    - family: Strawn
+      given: George
+    - family: Swertz
+      given: Morris A.
+    - family: Thompson
+      given: Mark
+    - family: Lei
+      given: Johan
+      dropping-particle: van der
+    - family: Mulligen
+      given: Erik
+      dropping-particle: van
+    - family: Velterop
+      given: Jan
+    - family: Waagmeester
+      given: Andra
+    - family: Wittenburg
+      given: Peter
+    - family: Wolstencroft
+      given: Katherine
+    - family: Zhao
+      given: Jun
+    - family: Mons
+      given: Barend
+    issued:
+    - year: '2016'
+      month: '3'
+    accessed:
+    - year: '2017'
+      month: '6'
+      day: '11'
+    title: The FAIR Guiding Principles for scientific data management and stewardship
+    container-title: Scientific Data
+    page: '160018'
+    volume: '3'
+    URL: http://www.nature.com/articles/sdata201618
+    DOI: 10.1038/sdata.2016.18
+    ISSN: '2052-4463'
+  - id: prnjat_surveying_2015
+    type: paper-conference
+    author:
+    - family: Prnjat
+      given: Ognjen
+    - family: Pascual
+      given: Manuel Rodriguez
+    - family: Becker
+      given: Bruce
+    - family: Barbera
+      given: Roberto
+    issued:
+    - year: '2015'
+      month: '5'
+    accessed:
+    - year: '2017'
+      month: '6'
+      day: '11'
+    title: Surveying clouds in a global environment
+    publisher: IEEE
+    page: '1-11'
+    URL: http://ieeexplore.ieee.org/document/7190536/
+    DOI: 10.1109/ISTAFRICA.2015.7190536
+    ISBN: '9781905824519'
+  - id: cls_light_sources
+    type: no-type
+    accessed:
+    - year: '2017'
+      month: '6'
+      day: '11'
+    title: World synchrotron map Map of synchrotron lightsources worl… Flickr
+    URL: https://www.flickr.com/photos/clsresoff/8498996062
+  - id: eirg_roadmap_2016
+    type: book
+    accessed:
+    - year: '2017'
+      month: '6'
+      day: '11'
+    title: Eirg-1002 - e-Infrastructures Reflection Group Roadmap 2016
+    URL: http://e-irg.eu/catalogue/eirg-1002
+    ISBN: 978-90-823661-1-2
+    author:
+    - family: Fledderus
+      given: Erik
+  - id: eirg_roadmap_2012
+    type: book
+    accessed:
+    - year: '2017'
+      month: '6'
+      day: '11'
+    title: Eirg-1002 - e-Infrastructures Reflection Group Roadmap 2012
+    URL: http://e-irg.eu/catalogue/eirg-1002
+    ISBN: 978-90-817691-7-4
+    author:
+    - family: Frank
+      given: Anton
+    - family: Sandberg
+      given: Marie
+  - id: Shave:2152388
+    type: article-journal
+    author:
+    - family: Shave
+      given: Tony
+    issued:
+    - year: '2016'
+      month: May
+    title: <span class="nocase">Distribution of all CERN Users by Nationality on 12       January 2016</span>
+    note: General Photo
+    URL: https://cds.cern.ch/record/2152388
+  - id: cunningham_virtual_2014
+    type: article-journal
+    author:
+    - family: Cunningham
+      given: John A.
+    - family: Rahman
+      given: Imran A.
+    - family: Lautenschlager
+      given: Stephan
+    - family: Rayfield
+      given: Emily J.
+    - family: Donoghue
+      given: Philip C. J.
+    issued:
+    - year: '2014'
+      month: '6'
+    accessed:
+    - year: '2017'
+      month: '6'
+      day: '11'
+    title: A virtual world of palaeontology
+    container-title: Trends in Ecology & Evolution
+    page: '347-357'
+    volume: '29'
+    issue: '6'
+    keyword: computed tomography, computer modeling, digital visualization, functional
+      analysis, palaeontology
+    URL: http://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(14)00087-1
+    DOI: 10.1016/j.tree.2014.04.004
+    ISSN: '0169-5347'
+    PMID: '24821516'
+  - id: berger2010australopithecus
+    type: article-journal
+    author:
+    - family: Berger
+      given: Lee R
+    - family: De Ruiter
+      given: Darryl J
+    - family: Churchill
+      given: Steven E
+    - family: Schmid
+      given: Peter
+    - family: Carlson
+      given: Kristian J
+    - family: Dirks
+      given: Paul HGM
+    - family: Kibii
+      given: Job M
+    issued:
+    - year: '2010'
+    title: 'Australopithecus sediba: A new species of homo-like australopith from
+      south africa'
+    title-short: Australopithecus sediba
+    container-title: Science
+    publisher: American Association for the Advancement of Science
+    page: '195-204'
+    volume: '328'
+    issue: '5975'
+    references:
+  - id: OSP
+    type: article-journal
+    author:
+    - family: Consortium
+      given: The Sci-GaIA
+    issued:
+    - year: '2015'
+    title: A federated platform for an open science commons in africa
+    publisher: Sci-GaIA Open Access Repository
+    DOI: 10.15169/sci-gaia:1444905243.7
+  - id: opennebula
+    type: article-journal
+    author:
+    - family: Rub&\#x00E9;n S. Montero
+    - family: Rafael Moreno-Vozmediano
+    - family: Ignacio M. Llorente
+    issued:
+    - year: '2012'
+    title: 'IaaS cloud architecture: From virtualized datacenters to federated cloud
+      infrastructures'
+    title-short: IaaS cloud architecture
+    container-title: Computer
+    publisher: IEEE Computer Society
+    publisher-place: Los Alamitos, CA, USA
+    page: '65-72'
+    volume: '45'
+    DOI: doi.ieeecomputersociety.org/10.1109/MC.2012.76
+    ISSN: '0018-9162'
+  - id: koukis2013synnefo
+    type: article-journal
+    author:
+    - family: Koukis
+      given: Vangelis
+    - family: Venetsanopoulos
+      given: Constantinos
+    - family: Koziris
+      given: Nectarios
+    issued:
+    - year: '2013'
+    title: 'Synnefo: A complete cloud stack over ganeti'
+    title-short: Synnefo
+    container-title: USENIX; login
+    page: '6-10'
+    volume: '38'
+    issue: '5'
+  - id: fedcloud15
+    type: article-journal
+    author:
+    - family: Fernández-del-Castillo
+      given: Enol
+    - family: Scardaci
+      given: Diego
+    - family: García
+      given: Álvaro López
+    issued:
+    - year: '2015'
+    title: The eGI federated cloud e-infrastructure
+    container-title: Procedia Computer Science
+    page: 196 - 205
+    volume: '68'
+    note: '1st International Conference on Cloud Forward: From Distributed to Complete
+      Computing'
+    keyword: Cloud Computing
+    URL: http://www.sciencedirect.com/science/article/pii/S187705091503080X
+    DOI: http://dx.doi.org/10.1016/j.procs.2015.09.235
+    ISSN: '1877-0509'
+  - id: eosc
+    type: no-type
+    accessed:
+    - year: '2017'
+      month: '6'
+      day: '12'
+    title: Realising the European open science cloud - Scientific and technical research
+    DOI: 10.2777/940154
+  - id: simmonds_african_2016
+    type: paper-conference
+    author:
+    - family: Simmonds
+      given: R.
+    - family: Taylor
+      given: R.
+    - family: Horrell
+      given: J.
+    - family: Fanaroff
+      given: B.
+    - family: Sithole
+      given: H.
+    - family: Rensburg
+      given: S. J. van
+    - family: Pretorius
+      given: B.
+    issued:
+    - year: '2016'
+      month: '5'
+    title: The African Data Intensive Research Cloud
+    container-title: 2016 IST-Africa Week Conference
+    page: '1-8'
+    DOI: 10.1109/ISTAFRICA.2016.7530650
+  - id: patrick_nrf_2015
+    type: no-type
+    author:
+    - literal: patrick
+    issued:
+    - year: '2015'
+      month: '2'
+    accessed:
+    - year: '2017'
+      month: '6'
+      day: '12'
+    title: NRF Open Access Statement 2015
+    genre: Text
+    URL: http://www.nrf.ac.za/document/nrf-open-access-statement-2015
+  - id: bruce_becker_2016_59296
+    type: no-type
+    author:
+    - family: Becker
+      given: Bruce
+    - family: Fargetta
+      given: Marco
+    - family: Lee
+      given: Chris
+    - family: Korosoglou
+      given: Paschalis
+    - family: Daoglou
+      given: Pavlos
+    - family: Rahim
+      given: Bouchra
+    - family: Masoka
+      given: Sakhile
+    - family: Kaklamanos
+      given: Georgios
+    - family: Murray
+      given: Sean
+    - family: Botha
+      given: Gerrit
+    issued:
+    - year: '2016'
+      month: '8'
+    title: '<span class="nocase">DevOps: Final Shibboleth-v2 Identity Provider Release</span>'
+    URL: https://doi.org/10.5281/zenodo.59296
+    DOI: 10.5281/zenodo.59296
+  - id: executable_infrastructure
+    type: paper-conference
+    accessed:
+    - year: '2017'
+      month: '6'
+      day: '12'
+    title: Executable Infrastructure for Africa and Arabia
+    URL: https://www.digitalinfrastructures.eu/content/executable-infrastructure-africa-and-arabia
+  - id: wilson2006software
+    type: article-journal
+    author:
+    - family: Wilson
+      given: Greg
+    issued:
+    - year: '2006'
+    title: 'Software carpentry: Getting scientists to write better code by making
+      them more productive'
+    title-short: Software carpentry
+    container-title: Computing in Science & Engineering
+    publisher: IEEE
+    page: '66-69'
+    volume: '8'
+    issue: '6'
+  - id: teal2015data
+    type: article-journal
+    author:
+    - family: Teal
+      given: Tracy K
+    - family: Cranston
+      given: Karen A
+    - family: Lapp
+      given: Hilmar
+    - family: White
+      given: Ethan
+    - family: Wilson
+      given: Greg
+    - family: Ram
+      given: Karthik
+    - family: Pawlik
+      given: Aleksandra
+    issued:
+    - year: '2015'
+    title: 'Data carpentry: Workshops to increase data literacy for researchers'
+    title-short: Data carpentry
+    container-title: International Journal of Digital Curation
+    page: '135-143'
+    volume: '10'
+    issue: '1'
+  - id: playforth2015information
+    type: article-journal
+    author:
+    - family: Playforth
+      given: Clare
+    issued:
+    - year: '2015'
+    title: Why the information profession needs library carpentry
+    container-title: Software Sustainability Institute \[weblog article, 4 December
+      2015\]
+    publisher: http://software. ac. uk/
+  - id: devops_bootcamp
+    type: no-type
+    author:
+    - family: Becker
+      given: Bruce
+    - family: Rohrer
+      given: Chris
+    - family: Fargetta
+      given: Marco
+    issued:
+    - year: '2017'
+      month: '1'
+    title: 'AAROC/AnsibleBootCamp: Ansible bootCamp - entebbe'
+    title-short: AAROC/AnsibleBootCamp
+    URL: https://doi.org/10.5281/zenodo.242394
+    DOI: 10.5281/zenodo.242394
+  - id: cern_ghana
+    type: no-type
+    accessed:
+    - year: '2017'
+      month: '6'
+      day: '12'
+    title: CERN servers donated to Ghana
+    URL: https://cds.cern.ch/journal/CERNBulletin/2012/37/News%20Articles/1476297?ln=en
+  - id: tacc_ranger
+    type: no-type
+    accessed:
+    - year: '2017'
+      month: '6'
+      day: '12'
+    title: Ranger Supercomputer Begins New Life - Latest News - Texas Advanced Computing
+      Center
+    URL: https://www.tacc.utexas.edu/-/ranger-supercomputer-begins-new-life
+  - id: muia_proceedings_2015
+    type: paper-conference
+    author:
+    - family: Muia
+      given: Peter
+    issued:
+    - year: '2015'
+      month: '11'
+    title: Proceedings and report of the 8th UbuntuNet Alliance annual conference
+    container-title: Proceedings and report of the 8th UbuntuNet Alliance annual conference
+    publisher: Ubuntunet Alliance
+    publisher-place: Maputo, Mozambique
+    page: '156-167'
+    URL: https://www.ubuntunet.net/ubuntunet-connect_2015_proceedings
+  - id: mooi2016context
+    type: paper-conference
+    author:
+    - family: Mooi
+      given: Roderick
+    - family: Botha
+      given: Reinhardt A
+    issued:
+    - year: '2016'
+    title: Context for the sA nREN computer security incident response team
+    container-title: IST-africa week conference, 2016
+    publisher: IEEE
+    page: '1-9'
